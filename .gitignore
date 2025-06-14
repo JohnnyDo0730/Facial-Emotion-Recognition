@@ -1,0 +1,7 @@
+# 忽略所有 keras 模型檔
+*.keras
+
+# 忽略特定資料夾
+.env
+/self/
+/self_test/test_data/
