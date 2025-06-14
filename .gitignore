@@ -5,3 +5,12 @@
 .env
 /self/
 /self_test/test_data/
+
+# 重要：如果資料夾本身被忽略，需先取消忽略資料夾
+!engagement_emotion/
+!engagement_emotion/VGG19/
+!self_test/
+!self_test/VGG19/
+
+!self_test/VGG19/VGG19_self_phase1.keras
+!self_test/VGG19/phase1_best_model.keras
